@@ -2,6 +2,8 @@
 
 
 💫 **About Me:**
+
+
 🌱 I’m passionate about learning and building with **HTML, CSS, and JavaScript** and **MERN Stack (MongoDB, Express.js, React.js, Node.js)** to create dynamic and user-friendly web applications.  
 💻 I’ve developed several projects using the **MERN Stack** as well as **Java (GUI)** integrated with **MySQL**, combining both frontend creativity and backend logic.  
 🚀 I’m deeply interested in **full-stack development, open-source contributions**, and creating projects that solve **real-world problems** through clean and efficient code. 
@@ -9,6 +11,8 @@
 
 
 🌐 **Socials:**
+
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jagruti-dhole-667159299/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/jagrutidhole)
 [![Portfolio](https://img.shields.io/badge/Portfolio-orange?style=for-the-badge&logo=firefox)](https://my-portfolio-sooty-nine-33.vercel.app/)
