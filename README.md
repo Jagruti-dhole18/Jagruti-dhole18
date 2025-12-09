@@ -56,12 +56,11 @@
 ![VSCode](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
 
+## 📊 GitHub Stats
 
-📊 **GitHub Stats:**
+![Jagruti's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Jagruti-dhole18&show_icons=true&include_all_commits=true&theme=radical)
 
-![Jagruti's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jagruti-dhole18&show_icons=true&count_private=true&include_all_commits=true&theme=radical)
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Jagruti-dhole18&layout=compact&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jagruti-dhole18&layout=compact&theme=radical)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=Jagruti-dhole18&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Jagruti-dhole18&theme=radical)
 
