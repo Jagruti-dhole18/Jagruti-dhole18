@@ -58,9 +58,10 @@
 
 ## 📊 GitHub Stats
 
-![Jagruti's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Jagruti-dhole18&show_icons=true&include_all_commits=true&theme=radical)
+![Jagruti's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jagruti-dhole18&show_icons=true&include_all_commits=true&count_private=true&theme=radical)
 
-![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Jagruti-dhole18&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jagruti-dhole18&layout=compact&theme=radical)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Jagruti-dhole18&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com/?user=Jagruti-dhole18&theme=radical)
+
 
