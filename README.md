@@ -1,68 +1,107 @@
-# 👋 Hi, I'm Jagruti Dhole
+<!-- HEADER -->
 
+<h1 align="center">✨ Hi, I'm Jagruti Dhole 👩‍💻</h1>
+<h3 align="center">🚀 Full-Stack Developer | MERN Stack | Java Enthusiast</h3>
 
-💫 **About Me:**
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=F75C7E&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;MERN+Stack+Explorer;Java+DSA+Learner;Building+Real+World+Projects;Open+Source+Enthusiast" />
+</p>
 
+---
 
-🌱 I’m passionate about learning and building with **HTML, CSS, and JavaScript** and **MERN Stack (MongoDB, Express.js, React.js, Node.js)** to create dynamic and user-friendly web applications.  
-💻 I’ve developed several projects using the **MERN Stack** as well as **Java (GUI)** integrated with **MySQL**, combining both frontend creativity and backend logic.  
-🚀 I’m deeply interested in **full-stack development, open-source contributions**, and creating projects that solve **real-world problems** through clean and efficient code. 
-📚 Currently, I’m sharpening my **Data Structures and Algorithms (Java)** skills to strengthen my problem-solving and system design abilities.
+## 🌸 About Me
 
+💡 Passionate about building **scalable & user-friendly applications**
+🌱 Currently mastering **Data Structures & Algorithms (Java)**
+⚡ Love combining **creative UI + strong backend logic**
+🎯 Focused on solving **real-world problems through tech**
 
-🌐 **Socials:**
+---
 
+## 🚀 Tech Arsenal
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jagruti-dhole-667159299/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/jagrutidhole)
-[![Portfolio](https://img.shields.io/badge/Portfolio-orange?style=for-the-badge&logo=firefox)](https://my-portfolio-sooty-nine-33.vercel.app/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jagrutidhole18@gmail.com)
+<p align="center">
 
-💻 **Coding Profiles:**
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,express,mongodb,mysql,java,c,git,github,vscode&perline=7" />
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/Jagruti_Dhole)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/jagrutid9d33)
-[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/jagrutidhole18)
-[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/jagruti_18)
+</p>
 
-### 💻 Tech Stack:
+---
 
-🖥️  **Frontend Development:**
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+## 🌐 Connect With Me
 
-⚙️  **Backend Development:**
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![JDBC](https://img.shields.io/badge/JDBC-007396?style=for-the-badge&logo=java&logoColor=white)
+<p align="center">
+<a href="https://www.linkedin.com/in/jagruti-dhole-667159299/"><img src="https://img.shields.io/badge/LinkedIn-Jagruti-blue?style=for-the-badge&logo=linkedin"></a>
+<a href="https://github.com/jagrutidhole"><img src="https://img.shields.io/badge/GitHub-Jagruti-black?style=for-the-badge&logo=github"></a>
+<a href="https://my-portfolio-sooty-nine-33.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-orange?style=for-the-badge&logo=firefox"></a>
+<a href="mailto:jagrutidhole18@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"></a>
+</p>
 
- ☕ **Programming Languages:**
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![Java (GUI)](https://img.shields.io/badge/Java%20(GUI)-007396?style=for-the-badge&logo=java&logoColor=white)
+---
 
-🧰 **Tools & Platforms:** 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/Render-00979D?style=for-the-badge&logo=render&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![VSCode](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
+## 💻 Coding Profiles
 
-## 📊 GitHub Stats
+<p align="center">
+<a href="https://leetcode.com/Jagruti_Dhole"><img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode"></a>
+<a href="https://auth.geeksforgeeks.org/user/jagrutid9d33"><img src="https://img.shields.io/badge/GeeksforGeeks-green?style=for-the-badge&logo=geeksforgeeks"></a>
+<a href="https://www.hackerrank.com/jagrutidhole18"><img src="https://img.shields.io/badge/HackerRank-darkgreen?style=for-the-badge&logo=hackerrank"></a>
+<a href="https://www.codechef.com/users/jagruti_18"><img src="https://img.shields.io/badge/CodeChef-brown?style=for-the-badge&logo=codechef"></a>
+</p>
 
-![Jagruti's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jagruti-dhole18&show_icons=true&theme=radical)
+---
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jagruti-dhole18&layout=compact&theme=radical)
+## 🧠 What Sets Me Apart
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Jagruti-dhole18&theme=radical)
+✨ Strong foundation in **Full-Stack Development**
+✨ Hands-on experience with **MERN + Java GUI Projects**
+✨ Passion for **clean, maintainable code**
+✨ Constant learner with growth mindset
 
+---
 
+## 📊 GitHub Analytics
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Jagruti-dhole18&show_icons=true&theme=radical&border_radius=10" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jagruti-dhole18&layout=compact&theme=radical&border_radius=10" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Jagruti-dhole18&theme=radical&border_radius=10" />
+</p>
+
+---
+
+## 🏆 Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Jagruti-dhole18&theme=radical&no-frame=true&row=1&margin-w=10"/>
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Jagruti-dhole18/Jagruti-dhole18/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+## 💭 Developer Quote
+
+<p align="center">
+  <i>"Code is not just syntax — it's a way to turn imagination into reality."</i>
+</p>
+
+---
+
+## 🔥 Profile Views
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Jagruti-dhole18&label=Profile%20Views&color=ff69b4&style=for-the-badge" />
+</p>
+
+---
+
+⭐ From [Jagruti Dhole](https://github.com/Jagruti-dhole18)
