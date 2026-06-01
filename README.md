@@ -26,7 +26,7 @@
 
 ### 💻 Languages
 <p>
-<img src="https://skillicons.dev/icons?i=java,cpp,c,python,javascript,typescript" />
+<img src="https://skillicons.dev/icons?i=java,cpp,c,python,javascript,typescript,php" />
 </p>
 
 ### 🌐 Frontend
@@ -41,12 +41,12 @@
 
 ### 🗄️ Databases
 <p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" />
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,jdbc" />
 </p>
 
 ### 🛠️ Tools & Platforms
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,vercel" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,vercel,render,netlify,intellij" />
 </p>
 
 ---
