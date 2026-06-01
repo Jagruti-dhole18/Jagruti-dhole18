@@ -122,9 +122,9 @@
 
 ## 💭 Developer Mindset
 
-<p align="center">
-  <i>"Great software is built by developers who never stop learning."</i>
-</p>
+<div align="center">
+  <p><i>"Great software is fueled by clean code, continuous learning, and just the right amount of hot Chai. ☕✨"</i></p>
+</div>
 
 ---
 
