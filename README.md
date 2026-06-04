@@ -107,7 +107,7 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Jagruti-dhole18&theme=radical&border_radius=10" />
+  <img src="https://streak-stats.demolab.com/?user=Jagruti-dhole18&theme=radical&border_radius=10" />
 </p>
 
 ---
