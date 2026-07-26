@@ -22,6 +22,26 @@
 
 ---
 
+## 🌍 Foreign Languages
+
+<p align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=20&duration=3500&pause=1000&color=FF69B4&center=true&vCenter=true&width=520&lines=🇩🇪+German+Language;A1+Certified;Currently+Learning+A2;Global+Communication+Skills"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/🇩🇪%20German-A1%20Certified-ff69b4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Next%20Goal-A2-8A2BE2?style=for-the-badge"/>
+
+</p>
+<div align="center">
+  📖 <b>Reading</b> • 💬 <b>Speaking</b> • ✍️ <b>Writing</b> • 🎧 <b>Listening</b>
+</div>
+
+---
+
 ## 🧠 Tech Stack
 
 ### 💻 Languages
