@@ -1,9 +1,9 @@
 <!-- HEADER -->
 <h1 align="center">✨ Hi, I'm Jagruti Dhole 👩‍💻</h1>
-<h3 align="center">🚀 Full-Stack Developer | MERN Stack | Java & DSA Enthusiast</h3>
+<h3 align="center">🚀 Full-Stack Developer | MERN & Spring Boot | Microservices | DSA Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=F75C7E&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;MERN+Stack+Engineer;Java+%26+DSA+Learner;Building+Scalable+Web+Apps;Open+Source+Contributor" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=F75C7E&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;MERN+Stack+Developer;Spring+Boot+Developer;Java+Enthusiast;DSA+Learner;Building+Scalable+Web+Applications" />
 </p>
 
 ---
@@ -11,13 +11,13 @@
 ## 🌸 About Me
 
 <p align="left">
-
-💡 Passionate about building **scalable, fast, and user-friendly applications**  
-🌱 Currently improving **Data Structures & Algorithms (Java)**  
-⚡ Enjoy working on **clean UI + powerful backend systems**  
-🎯 Focused on solving **real-world problems using code**  
-🚀 Always exploring new technologies and frameworks  
-
+💡 Passionate about building <strong>scalable, fast, and user-friendly applications</strong><br>
+🌱 Currently improving <strong>Data Structures & Algorithms with Java</strong><br>
+⚡ Enjoy building <strong>modern frontend experiences & powerful backend systems</strong><br>
+🔧 Interested in <strong>Spring Boot, Microservices, REST APIs & Apache Kafka</strong><br>
+☁️ Exploring <strong>Docker, Kubernetes, Jenkins & CI/CD</strong><br>
+🎯 Focused on solving <strong>real-world problems through software</strong><br>
+🚀 Always exploring <strong>new technologies and development practices</strong>
 </p>
 
 ---
@@ -46,7 +46,7 @@
 
 ### 💻 Languages
 <p>
-<img src="https://skillicons.dev/icons?i=java,cpp,c,python,javascript,typescript,php" />
+<img src="https://skillicons.dev/icons?i=java,cpp,c,javascript,typescript,php" />
 </p>
 
 ### 🌐 Frontend
@@ -56,7 +56,7 @@
 
 ### ⚙️ Backend
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,spring,kafka" />
 </p>
 
 ### 🗄️ Databases
@@ -69,15 +69,25 @@
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,vercel,netlify,idea" />
 </p>
 
+### ☁️ DevOps
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,githubactions,CI/CD" />
+</p>
+
 ---
 
 ## 🚀 Featured Highlights
 
-✨ MERN Stack Projects with Authentication & APIs  
-✨ Java GUI & Backend System Development  
-✨ Strong foundation in **DSA (Problem Solving)**  
-✨ Experience in building **real-world full-stack apps**  
-✨ Clean code practices + modular architecture  
+<p align="left">
+✨ Full-Stack Development with <strong>MERN & Spring Boot</strong><br>
+✨ Backend Development with <strong>REST APIs, Microservices & Apache Kafka</strong><br>
+✨ Java-based Application Development with <strong>Spring Boot & GUI</strong><br>
+✨ Strong foundation in <strong>DSA & Problem Solving</strong><br>
+✨ Experience building <strong>real-world full-stack & distributed applications</strong><br>
+✨ Hands-on experience with <strong>Docker, Kubernetes, Jenkins & CI/CD</strong><br>
+✨ Clean code practices, <strong>modular architecture & scalable system design</strong>
+</p>
+
 
 ---
 
@@ -90,7 +100,7 @@
 <a href="https://github.com/jagrutidhole">
   <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github"/>
 </a>
-<a href="https://my-portfolio-sooty-nine-33.vercel.app/">
+<a href="https://jagruti-portfolio-theta.vercel.app/">
   <img src="https://img.shields.io/badge/Portfolio-Live-orange?style=for-the-badge&logo=vercel"/>
 </a>
 <a href="mailto:jagrutidhole18@gmail.com">
