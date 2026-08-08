@@ -66,7 +66,7 @@
 
 ### 🛠️ Tools & Platforms
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,vercel,netlify,idea" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,netlify,idea" />
 </p>
 
 ### ☁️ DevOps
